@@ -1,7 +1,7 @@
 ---
 title: "Unit Testing Challenge"
 teaching: 10
-exercises: 50
+exercises: 45
 questions:
   - "How do I apply unit tests to research code?"
   - "How can I use unit tests to improve my code?"
